@@ -1,6 +1,6 @@
 lager = {
     "50K Vape": {"preis": 25, "menge": 10, "kategorie": "Vapes"},
-    "60K Vape": {"preis": 30, "menge": 10, "kategorie": "Vapes"},
+    "60K Vape": {"preis": 1, "menge": 10, "kategorie": "Vapes"},
 }
 
 def alle():
